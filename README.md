@@ -1,3 +1,5 @@
+[![MasterHead]([your image link](https://github.com/LZ1337-1/LZ1337-1/blob/main/header.png))]([your GitHub link](https://github.com/LZ1337-1))
+
 ### Hi there 👋
 
 <!--
