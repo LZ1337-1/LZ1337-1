@@ -10,7 +10,7 @@ I'm a french developper and been on industry for the last 4 years
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LZ1337-1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LZ1337-1&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LZ1337-1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LZ1337-1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
