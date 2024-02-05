@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a french developper and been on industry for the last 4 years
+
 
 
 ## 🌐 Socials:
